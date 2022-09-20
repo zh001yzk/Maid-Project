@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>MaidTech</defName>
+    <label>MaidProject女仆计划</label>
+    <description>MaidProject女仆计划  解锁女仆装制作台，可以制作六种不同的女仆装。六种女仆装有不同的技能加成。</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>PoweredArmor</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+    <researchViewX>14</researchViewX>
+    <researchViewY>3.5</researchViewY>
+  </ResearchProjectDef>
+</Defs>
